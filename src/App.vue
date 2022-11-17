@@ -2,7 +2,7 @@
   <body class="h-screen">
     <div class="flex flex-col">
       <div class="flex flex-row bg-green-600">
-        <div class="flex-none w-32">
+        <div class="flex-none sm:w-32 w-14">
           <img src="./multimedia/logo_bb.jpg" />
         </div>
         <div class="flex-auto m-auto">

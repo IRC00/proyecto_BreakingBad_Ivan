@@ -18,7 +18,7 @@ export default {
   },
   methods: {
     enviarEvento() {
-      this.$emit("enviaEvento", this.texto);
+      this.$emit("enviaEvento");
     },
   },
 };

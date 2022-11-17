@@ -2,7 +2,12 @@
   <div>
     <p class="pb-2">
       Filtrar:
-      <input type="text" v-model="search" placeholder="Buscar personaje..." />
+      <input
+        class="w-40"
+        type="text"
+        v-model="search"
+        placeholder="Buscar personaje..."
+      />
       &nbsp;
     </p>
     <button
