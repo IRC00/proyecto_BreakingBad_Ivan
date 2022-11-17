@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-row flex-wrap gap-5 justify-center">
+  <div class="flex flex-row flex-wrap gap-5 justify-center bg-green-900">
     <Personaje
       v-if="favoritos"
       v-for="personaje in listaFavoritos"
